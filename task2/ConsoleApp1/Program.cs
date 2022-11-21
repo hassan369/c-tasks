@@ -113,8 +113,8 @@ namespace ConsoleApp1
             Console.WriteLine($"{minutess/60}Hours, {minutess%60} Minutes");
 
             //task 8
-            string[] names = { "ahmad", "ali", "sameer", "hassan ayasrah", "nsreen" };
-            Console.WriteLine($"{names[0]} {names[0].Length}\n{names[1]} {names[1].Length}\n{names[2]} {names[2].Length}\n{names[3]} {names[3].Length}\n{names[4]} {names[4].Length}");
+            string[] names = { "ahmad ahmad", "ali ali ali ", "sameer ssssseef", "hassan ayasrah", "nsreen daraghmeh" };
+            Console.WriteLine($"{names[0].Substring(4)}\n{names[1].Substring(6)}\n {names[2].Substring(2,5)}\n {names[3].Substring(6,7)}\n{names[4].Substring(0,6)}");
         }
     }
 }
