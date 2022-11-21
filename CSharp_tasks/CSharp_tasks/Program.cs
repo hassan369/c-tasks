@@ -54,6 +54,7 @@ namespace CSharp_tasks
             Console.Write(numbers[8]);
             Console.WriteLine(numbers[9]);
 
+
             //task 6
             int[] numbers2 = { 2, 5, 8};
             Console.WriteLine("Sum of all elements stored in the array is: " + numbers2[0] + numbers2[1]+ numbers2[2]);
