@@ -43,15 +43,15 @@ namespace CSharp_tasks
 
             //task 5
             int[] numbers = { 1,1,2,3,4,5,6,7,8,9 };
-            Console.WriteLine(numbers[0]);
-            Console.WriteLine(numbers[1]);
-            Console.WriteLine(numbers[2]);
-            Console.WriteLine(numbers[3]);
-            Console.WriteLine(numbers[4]);
-            Console.WriteLine(numbers[5]);
-            Console.WriteLine(numbers[6]);
-            Console.WriteLine(numbers[7]);
-            Console.WriteLine(numbers[8]);
+            Console.Write(numbers[0]);
+            Console.Write(numbers[1]);
+            Console.Write(numbers[2]);
+            Console.Write(numbers[3]);
+            Console.Write(numbers[4]);
+            Console.Write(numbers[5]);
+            Console.Write(numbers[6]);
+            Console.Write(numbers[7]);
+            Console.Write(numbers[8]);
             Console.WriteLine(numbers[9]);
 
             //task 6

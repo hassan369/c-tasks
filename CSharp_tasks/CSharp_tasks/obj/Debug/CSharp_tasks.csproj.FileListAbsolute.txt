@@ -6,3 +6,11 @@ C:\Users\dell\source\repos\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.cspr
 C:\Users\dell\source\repos\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.csproj.CoreCompileInputs.cache
 C:\Users\dell\source\repos\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.exe
 C:\Users\dell\source\repos\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.pdb
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\bin\Debug\CSharp_tasks.exe.config
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\bin\Debug\CSharp_tasks.exe
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\bin\Debug\CSharp_tasks.pdb
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.exe
+C:\Users\dell\Desktop\cSharp Tasks\c-tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.pdb
