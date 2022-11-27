@@ -8,6 +8,7 @@ namespace ConsoleApp2
 {
     internal class Program
     {
+
         static double[] SumAndAvarage(double[] numbers)
         {
             double sum = 0;
@@ -68,6 +69,12 @@ namespace ConsoleApp2
             //return ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
         }
 
+
+        //static int[] sumAndAvaragee(int num1, int num2, int num3) { 
+        //int sum = 
+        //}
+
+      
         static bool isPrime(int num) {
             for (int i = 2; i < num; i++) { 
             if(num % i == 0)
@@ -79,22 +86,23 @@ namespace ConsoleApp2
         }
 
         static int numberOfChar(string words) {
-            int counter = 0;
-        foreach(char i in words)
+            int counter = 1;
+            string wordAfterTrim = words.Trim();
+        foreach (char i in wordAfterTrim)
             {
                 
                 if(i == ' ')
                 {
-                    continue;
+                    counter++;
                 }
-                counter++;
+                
             }
             return counter;
         }
 
         static int powHassan(int i, int p) {
-            int sum = i;
-            for(int k = 1; k<p; k++)
+            int sum = 1;
+            for(int k = 0; k<p; k++)
             {
                 sum *= i;
             }
@@ -212,10 +220,10 @@ namespace ConsoleApp2
 
             Console.WriteLine("Task 10");
             //task10
-            Console.Write("enter sentence to know how many char in it: ");
+            Console.Write("enter sentence to know how many words in it: ");
             string wordToCheck = Console.ReadLine();
             int counterForChar = numberOfChar(wordToCheck);
-            Console.WriteLine($"the number of chars in sentence are: {counterForChar}");
+            Console.WriteLine($"the number of Words in sentence are: {counterForChar}");
         }
     }
 }
