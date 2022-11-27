@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class Person
     {
-        public int age = 24;
+        public int age ;
         public string gender ;
         public string name;
         public string email;
