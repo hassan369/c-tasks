@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+  
+   
     class Person
     {
-        public int age ;
+        private int age;
         public string gender ;
         public string name;
         public string email;
@@ -33,7 +35,7 @@ namespace ConsoleApp1
             }
             else
             {
-                Console.WriteLine("rong phone number");
+                Console.WriteLine("invalid phone number");
             }
         }
 
@@ -44,6 +46,8 @@ namespace ConsoleApp1
         {
             Person ahmad = new Person(90, "mail", "ahmad", "ahmad@gmail.com", 2 , "55544994");
             Console.WriteLine(ahmad.phone);
+
+            
         }
     }
 }
